@@ -1,0 +1,7 @@
+#tabuleiro div button{
+    border: none;
+    background-color: brown;
+    height: 7rem;
+    width: 7rem;
+    border-radius: 10px;
+}
